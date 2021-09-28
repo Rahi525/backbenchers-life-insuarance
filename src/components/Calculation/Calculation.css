@@ -1,0 +1,13 @@
+.calc-container{
+   color:rgb(213, 217, 221);
+   margin-left: 0%;
+}
+
+.calc-container>h3{
+   font-size: 20px;
+   margin-top: 0;
+}
+
+.selected-wrap{
+   margin-top: 40px;
+}

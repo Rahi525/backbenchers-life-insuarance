@@ -1,0 +1,41 @@
+.each-selected-friend{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 6px 0;
+   padding: 6px;
+   background-color: rgb(56 64 68 / 40%);
+   border-radius: 37px;
+   border: 1px solid #000405d2;
+}
+
+.image-wrap{
+   width: 21%;
+}
+
+.image-wrap img{
+   width: 100%;
+   border-radius: 50%;
+}
+
+.name-budget-wrap{
+   text-align: left;
+   flex-basis: 59%;
+}
+
+.name-budget-wrap>h3{
+   margin-top: 0;
+   font-size: 1.1rem;
+   font-weight: 500;
+}
+
+.name-budget-wrap p{
+   font-size: 13px;
+}
+
+.cross-icon{
+   font-size: 1.2rem;
+   margin: 0 9px 0 0;
+   color:#ff3737;
+   cursor: pointer;
+}

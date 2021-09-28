@@ -1,0 +1,51 @@
+.card{
+   border: 1px solid #021f1bbd;
+   color: rgb(213, 217, 221);
+   background-color: rgb(56 64 68 / 40%);
+   padding: 1.8rem 0.8rem;
+   border-radius: 10px;
+}
+
+.img-wrapper{
+   width: 100%;
+}
+
+.img-wrapper img{
+   border: 1px solid #021f1bbd;
+   width: 75%;
+   border-radius: 50%;
+}
+
+h3{
+   margin-top: 30px;
+   font-weight: 500;
+   font-size: 1.5rem;
+}
+
+p{
+   font-size: 1rem;
+   text-align: left;
+   margin-top: 4px;
+}
+
+.btn-wrapper{
+   margin-top: 20px;
+}
+
+.calculate-btn{
+   padding: 5px 15px;
+   background-color: rgb(71, 105, 214);
+   border: none;
+   color:rgb(213, 217, 221);
+   border-radius: 4px;
+   font-size: 15px;
+   cursor: pointer;
+   transition: all 0.2s ease;
+}
+
+.calculate-btn:hover{
+   background-color: rgb(35, 41, 60, 1);
+   color: rgb(255, 255, 255);
+   border-radius: 5px;
+   border: 2px solid rgb(137, 148, 148);
+}

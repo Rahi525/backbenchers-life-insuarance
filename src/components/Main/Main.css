@@ -1,0 +1,21 @@
+main{
+   width: 100%;
+   padding: 2rem 0;
+}
+
+#main-container{
+   width: 94%;
+   margin: 0 auto;
+}
+
+#friend-calc-container{
+   display: grid;
+   grid-template-columns: 12fr 4fr;
+   gap: 30px;
+}
+
+#friends-wrapper{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   gap: 1.2rem;
+}
